@@ -6,3 +6,4 @@ Test 2
 kontynuacja w judycie
 >>>>>>> refs/remotes/origin/judyta
 nie wiem co dalej robic
+bazgram
