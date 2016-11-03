@@ -1,4 +1,4 @@
-update=02.11.2016 14:17:35
+update=03.11.2016 09:32:50
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=C:/Users/User/Desktop/lib/edulib
 LibName31=C:/Users/User/Desktop/lib/stm32
 LibName32=C:/Users/User/Desktop/lib/warsztaty
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
