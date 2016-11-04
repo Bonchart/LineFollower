@@ -38,11 +38,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Robot - listwa z czujnikami"
+Title "projekT-3 - listwa z czujnikami"
 Date "2016-11-03"
-Rev "Piotr Bielenia"
+Rev ""
 Comp ""
-Comment1 ""
+Comment1 "Piotr Bielenia, Andrzej Gołębiewski"
 Comment2 ""
 Comment3 ""
 Comment4 ""

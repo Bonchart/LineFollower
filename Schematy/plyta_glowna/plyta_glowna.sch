@@ -37,11 +37,11 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "Robot - płyta główna"
+Title "projekT-3 - płyta główna"
 Date "2016-11-03"
-Rev "Piotr Bielenia"
+Rev ""
 Comp ""
-Comment1 ""
+Comment1 "Piotr Bielenia, Andrzej Gołębiewski"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -445,19 +445,19 @@ Text Label 4450 6050 2    60   ~ 0
 kierunek_2_silnik_B
 Text Label 4450 5950 2    60   ~ 0
 kierunek_1_silnik_B
-Text Label 5950 7950 2    60   ~ 0
+Text Label 5950 7750 2    60   ~ 0
 bluetooth_TX
-Text Label 5950 8050 2    60   ~ 0
+Text Label 5950 7650 2    60   ~ 0
 bluetooth_RX
 $Comp
 L GND #PWR015
 U 1 1 581B444B
-P 6050 7400
-F 0 "#PWR015" H 6050 7150 50  0001 C CNN
-F 1 "GND" H 6150 7400 50  0000 C CNN
-F 2 "" H 6050 7400 50  0000 C CNN
-F 3 "" H 6050 7400 50  0000 C CNN
-	1    6050 7400
+P 5850 7900
+F 0 "#PWR015" H 5850 7650 50  0001 C CNN
+F 1 "GND" H 5750 7750 50  0000 C CNN
+F 2 "" H 5850 7900 50  0000 C CNN
+F 3 "" H 5850 7900 50  0000 C CNN
+	1    5850 7900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -512,12 +512,12 @@ $EndComp
 $Comp
 L +3.3V #PWR018
 U 1 1 581B779C
-P 5900 7750
-F 0 "#PWR018" H 5900 7600 50  0001 C CNN
-F 1 "+3.3V" H 6050 7800 50  0000 C CNN
-F 2 "" H 5900 7750 50  0000 C CNN
-F 3 "" H 5900 7750 50  0000 C CNN
-	1    5900 7750
+P 5950 8050
+F 0 "#PWR018" H 5950 7900 50  0001 C CNN
+F 1 "+3.3V" H 5850 8200 50  0000 C CNN
+F 2 "" H 5950 8050 50  0000 C CNN
+F 3 "" H 5950 8050 50  0000 C CNN
+	1    5950 8050
 	-1   0    0    1   
 $EndComp
 Text Label 11200 7050 2    60   ~ 0
@@ -1134,40 +1134,6 @@ Wire Wire Line
 Wire Wire Line
 	2850 1600 2850 1850
 Connection ~ 3200 1850
-$Comp
-L CONN_01X06 P3
-U 1 1 581F01A8
-P 6200 7900
-F 0 "P3" H 6200 8250 50  0000 C CNN
-F 1 "CONN_01X06" V 6300 7900 50  0000 C CNN
-F 2 "" H 6200 7900 50  0000 C CNN
-F 3 "" H 6200 7900 50  0000 C CNN
-	1    6200 7900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6050 7350 6050 7400
-Wire Wire Line
-	5900 7350 6050 7350
-Wire Wire Line
-	5900 7350 5900 7650
-Wire Wire Line
-	5900 7650 6000 7650
-NoConn ~ 6000 7850
-Wire Wire Line
-	6000 7750 5900 7750
-Wire Wire Line
-	5950 7950 6000 7950
-Wire Wire Line
-	5950 8050 6000 8050
-Text Label 5950 8150 2    60   ~ 0
-bluetooth_key
-Wire Wire Line
-	5950 8150 6000 8150
-Text Label 4450 5350 2    60   ~ 0
-bluetooth_key
-Wire Wire Line
-	4450 5350 4500 5350
 $Comp
 L SW_PUSH SW2
 U 1 1 581F384F
@@ -1828,4 +1794,28 @@ Wire Notes Line
 	8250 3750 8250 2600
 Wire Notes Line
 	8400 3750 8400 5400
+$Comp
+L CONN_01X04 P?
+U 1 1 581D0D24
+P 6200 7800
+F 0 "P?" H 6200 8050 50  0000 C CNN
+F 1 "CONN_01X04" V 6300 7800 50  0000 C CNN
+F 2 "" H 6200 7800 50  0000 C CNN
+F 3 "" H 6200 7800 50  0000 C CNN
+	1    6200 7800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5950 8050 5950 7950
+Wire Wire Line
+	5950 7950 6000 7950
+Wire Wire Line
+	5850 7900 5850 7850
+Wire Wire Line
+	5850 7850 6000 7850
+Wire Wire Line
+	5950 7650 6000 7650
+Wire Wire Line
+	6000 7750 5950 7750
+NoConn ~ 4500 5350
 $EndSCHEMATC
