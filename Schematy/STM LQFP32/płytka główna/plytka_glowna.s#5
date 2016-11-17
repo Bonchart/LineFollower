@@ -18234,79 +18234,79 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 </class>
 </classes>
 <parts>
-<part name="C1" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="10u"/>
-<part name="C2" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="10u"/>
+<part name="C1" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="10u"/>
+<part name="C2" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="10u"/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="IC1" library="lm1117" deviceset="LM1117DTX-*" device="" technology="3.3" value="LM1117-3.3V"/>
 <part name="LED1" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
-<part name="C3" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
-<part name="C4" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
-<part name="C6" library="rcl" deviceset="C-EU" device="025-024X044" value="10n"/>
-<part name="C5" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="4.7u"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
+<part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C6" library="rcl" deviceset="C-EU" device="C0805" value="10n"/>
+<part name="C5" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="4.7u"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
-<part name="C7" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="1u"/>
+<part name="C7" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="1u"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
-<part name="C8" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
+<part name="C8" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="S1" library="GeekAmmo" deviceset="TACTILE-SWITCH" device="-7914G" value=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
-<part name="J1" library="SparkFun-Connectors" deviceset="M05" device="LOCK_LONGPADS"/>
+<part name="PROG" library="SparkFun-Connectors" deviceset="M05" device="LOCK_LONGPADS"/>
 <part name="+3V4" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="LED2" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED3" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="L1" library="rcl" deviceset="L-EU" device="0204/7" value="10u"/>
-<part name="C9" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="S2" library="GeekAmmo" deviceset="TACTILE-SWITCH" device="-7914G" value=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
-<part name="J2" library="SparkFun-Connectors" deviceset="M04" device="JST"/>
+<part name="BLUETOOTH" library="SparkFun-Connectors" deviceset="M04" device="JST"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="+3V5" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="IC2" library="74xx-eu" deviceset="74*595" device="D" technology="HC"/>
 <part name="+3V6" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
-<part name="C10" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
+<part name="C10" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="LED4" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R4" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R4" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="U$1" library="STM32F030K6T6" deviceset="STM32F030K6T6" device="-LQFP-32"/>
 <part name="LED5" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED6" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED7" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED8" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED9" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED10" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="LED11" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="0204/2V" value="100R"/>
+<part name="R11" library="rcl" deviceset="R-EU_" device="M0805" value="100R"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="R12" library="rcl" deviceset="R-EU_" device="0204/2V" value="22K"/>
-<part name="R13" library="rcl" deviceset="R-EU_" device="0204/2V" value="10K"/>
+<part name="R12" library="rcl" deviceset="R-EU_" device="M0805" value="22K"/>
+<part name="R13" library="rcl" deviceset="R-EU_" device="M0805" value="10K"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="J4" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
+<part name="BATTERY" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
-<part name="J5" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
-<part name="J6" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
-<part name="U$2" library="SparkFun-PowerIC" deviceset="TB6612FNG" device="" value="TB6612FNG"/>
-<part name="C11" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="10u"/>
-<part name="C12" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
+<part name="ENG1" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
+<part name="ENG2" library="SparkFun-Connectors" deviceset="M02" device="-JST-2-PTH-NO_SILK"/>
+<part name="TB6612FNG" library="SparkFun-PowerIC" deviceset="TB6612FNG" device="" value="TB6612FNG"/>
+<part name="C11" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="10u"/>
+<part name="C12" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="+3V9" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="C13" library="rcl" deviceset="CPOL-EU" device="085CS-1AR" value="10u"/>
-<part name="C14" library="rcl" deviceset="C-EU" device="025-024X044" value="100n"/>
+<part name="C13" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="10u"/>
+<part name="C14" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 <part name="+3V10" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
@@ -18350,7 +18350,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <instance part="C8" gate="G$1" x="68.58" y="81.28" rot="R90"/>
 <instance part="S1" gate="G$1" x="68.58" y="71.12"/>
 <instance part="GND4" gate="1" x="78.74" y="66.04"/>
-<instance part="J1" gate="G$1" x="208.28" y="35.56"/>
+<instance part="PROG" gate="G$1" x="208.28" y="35.56"/>
 <instance part="+3V4" gate="G$1" x="220.98" y="48.26"/>
 <instance part="GND5" gate="1" x="220.98" y="25.4"/>
 <instance part="LED2" gate="G$1" x="22.86" y="83.82" rot="R90"/>
@@ -18362,7 +18362,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <instance part="C9" gate="G$1" x="119.38" y="81.28" rot="R90"/>
 <instance part="S2" gate="G$1" x="119.38" y="71.12"/>
 <instance part="GND7" gate="1" x="129.54" y="66.04"/>
-<instance part="J2" gate="G$1" x="208.28" y="5.08"/>
+<instance part="BLUETOOTH" gate="G$1" x="208.28" y="5.08"/>
 <instance part="GND8" gate="1" x="226.06" y="0"/>
 <instance part="+3V5" gate="G$1" x="218.44" y="2.54"/>
 <instance part="GND9" gate="1" x="99.06" y="22.86"/>
@@ -18393,12 +18393,12 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <instance part="R12" gate="G$1" x="256.54" y="25.4" rot="R90"/>
 <instance part="R13" gate="G$1" x="256.54" y="10.16" rot="R90"/>
 <instance part="GND12" gate="1" x="256.54" y="0"/>
-<instance part="J4" gate="G$1" x="205.74" y="68.58"/>
+<instance part="BATTERY" gate="G$1" x="205.74" y="68.58"/>
 <instance part="GND14" gate="1" x="215.9" y="63.5"/>
 <instance part="GND15" gate="1" x="185.42" y="93.98"/>
-<instance part="J5" gate="G$1" x="238.76" y="104.14" rot="R180"/>
-<instance part="J6" gate="G$1" x="238.76" y="116.84" rot="R180"/>
-<instance part="U$2" gate="G$1" x="205.74" y="116.84"/>
+<instance part="ENG1" gate="G$1" x="238.76" y="104.14" rot="R180"/>
+<instance part="ENG2" gate="G$1" x="238.76" y="116.84" rot="R180"/>
+<instance part="TB6612FNG" gate="G$1" x="205.74" y="116.84"/>
 <instance part="C11" gate="G$1" x="144.78" y="124.46"/>
 <instance part="C12" gate="G$1" x="154.94" y="124.46"/>
 <instance part="+3V9" gate="G$1" x="144.78" y="134.62"/>
@@ -18477,7 +18477,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <label x="256.54" y="33.02" size="1.27" layer="95" rot="MR0" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J4" gate="G$1" pin="2"/>
+<pinref part="BATTERY" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="71.12" x2="215.9" y2="71.12" width="0.1524" layer="91" style="longdash"/>
 <label x="215.9" y="71.12" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18491,13 +18491,13 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <wire x1="256.54" y1="129.54" x2="259.08" y2="129.54" width="0.1524" layer="91"/>
 <junction x="256.54" y="129.54"/>
 <label x="259.08" y="129.54" size="1.27" layer="95" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="VM3"/>
+<pinref part="TB6612FNG" gate="G$1" pin="VM3"/>
 <wire x1="223.52" y1="124.46" x2="226.06" y2="124.46" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="124.46" x2="226.06" y2="127" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="VM1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="VM1"/>
 <wire x1="226.06" y1="127" x2="226.06" y2="129.54" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="129.54" x2="223.52" y2="129.54" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="VM2"/>
+<pinref part="TB6612FNG" gate="G$1" pin="VM2"/>
 <wire x1="226.06" y1="127" x2="223.52" y2="127" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="129.54" x2="228.6" y2="129.54" width="0.1524" layer="91" style="longdash"/>
 <junction x="226.06" y="127"/>
@@ -18521,13 +18521,13 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <junction x="48.26" y="127"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="5"/>
+<pinref part="PROG" gate="G$1" pin="5"/>
 <pinref part="+3V4" gate="G$1" pin="+3V3"/>
 <wire x1="215.9" y1="40.64" x2="220.98" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="220.98" y1="40.64" x2="220.98" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="1"/>
+<pinref part="BLUETOOTH" gate="G$1" pin="1"/>
 <wire x1="213.36" y1="2.54" x2="213.36" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="-2.54" x2="218.44" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="+3V5" gate="G$1" pin="+3V3"/>
@@ -18609,7 +18609,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <junction x="78.74" y="71.12"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="1"/>
+<pinref part="PROG" gate="G$1" pin="1"/>
 <wire x1="215.9" y1="30.48" x2="220.98" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="220.98" y1="30.48" x2="220.98" y2="27.94" width="0.1524" layer="91"/>
@@ -18641,7 +18641,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <junction x="129.54" y="71.12"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="2"/>
+<pinref part="BLUETOOTH" gate="G$1" pin="2"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 <wire x1="213.36" y1="5.08" x2="226.06" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="226.06" y1="5.08" x2="226.06" y2="2.54" width="0.1524" layer="91"/>
@@ -18703,7 +18703,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <wire x1="256.54" y1="2.54" x2="256.54" y2="5.08" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="J4" gate="G$1" pin="1"/>
+<pinref part="BATTERY" gate="G$1" pin="1"/>
 <wire x1="213.36" y1="68.58" x2="215.9" y2="68.58" width="0.1524" layer="91" style="longdash"/>
 <wire x1="215.9" y1="68.58" x2="215.9" y2="66.04" width="0.1524" layer="91" style="longdash"/>
 <pinref part="GND14" gate="1" pin="GND"/>
@@ -18724,11 +18724,11 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <junction x="185.42" y="101.6"/>
 <junction x="185.42" y="99.06"/>
 <pinref part="GND15" gate="1" pin="GND"/>
-<pinref part="U$2" gate="G$1" pin="PGND1@3"/>
-<pinref part="U$2" gate="G$1" pin="PGND1@4"/>
-<pinref part="U$2" gate="G$1" pin="PGND2@9"/>
-<pinref part="U$2" gate="G$1" pin="PGND2@10"/>
-<pinref part="U$2" gate="G$1" pin="GND"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PGND1@3"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PGND1@4"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PGND2@9"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PGND2@10"/>
+<pinref part="TB6612FNG" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C11" gate="G$1" pin="-"/>
@@ -18835,7 +18835,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <pinref part="U$1" gate="G$1" pin="PA13/SWDIO"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="4"/>
+<pinref part="PROG" gate="G$1" pin="4"/>
 <wire x1="215.9" y1="38.1" x2="218.44" y2="38.1" width="0.1524" layer="91"/>
 <label x="218.44" y="38.1" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18847,7 +18847,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <pinref part="U$1" gate="G$1" pin="PA14/SWCLK"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="3"/>
+<pinref part="PROG" gate="G$1" pin="3"/>
 <wire x1="215.9" y1="35.56" x2="218.44" y2="35.56" width="0.1524" layer="91"/>
 <label x="218.44" y="35.56" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18883,7 +18883,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <pinref part="U$1" gate="G$1" pin="PB7"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="3"/>
+<pinref part="BLUETOOTH" gate="G$1" pin="3"/>
 <wire x1="213.36" y1="7.62" x2="215.9" y2="7.62" width="0.1524" layer="91"/>
 <label x="215.9" y="7.62" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18895,7 +18895,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <pinref part="U$1" gate="G$1" pin="PB6"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="4"/>
+<pinref part="BLUETOOTH" gate="G$1" pin="4"/>
 <wire x1="213.36" y1="10.16" x2="215.9" y2="10.16" width="0.1524" layer="91"/>
 <label x="215.9" y="10.16" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18909,7 +18909,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="116.84" x2="185.42" y2="116.84" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="116.84" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="PWMB"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PWMB"/>
 </segment>
 </net>
 <net name="KIERUNEK_2_SILNIK_B" class="0">
@@ -18921,7 +18921,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="111.76" x2="185.42" y2="111.76" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="111.76" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="BIN2"/>
+<pinref part="TB6612FNG" gate="G$1" pin="BIN2"/>
 </segment>
 </net>
 <net name="KIERUNEK_1_SILNIK_B" class="0">
@@ -18933,7 +18933,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="114.3" x2="185.42" y2="114.3" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="114.3" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="BIN1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="BIN1"/>
 </segment>
 </net>
 <net name="PWM_SILNIK_A" class="0">
@@ -18945,7 +18945,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="124.46" x2="185.42" y2="124.46" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="124.46" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="PWMA"/>
+<pinref part="TB6612FNG" gate="G$1" pin="PWMA"/>
 </segment>
 </net>
 <net name="KIERUNEK_1_SILNIK_A" class="0">
@@ -18957,7 +18957,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="119.38" x2="185.42" y2="119.38" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="119.38" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="AIN1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="AIN1"/>
 </segment>
 </net>
 <net name="KIERUNEK_2_SILNIK_A" class="0">
@@ -18969,7 +18969,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <wire x1="187.96" y1="121.92" x2="185.42" y2="121.92" width="0.1524" layer="91" style="longdash"/>
 <label x="185.42" y="121.92" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$2" gate="G$1" pin="AIN2"/>
+<pinref part="TB6612FNG" gate="G$1" pin="AIN2"/>
 </segment>
 </net>
 <net name="VAKU" class="0">
@@ -19106,7 +19106,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 </net>
 <net name="RESET" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="2"/>
+<pinref part="PROG" gate="G$1" pin="2"/>
 <wire x1="215.9" y1="33.02" x2="218.44" y2="33.02" width="0.1524" layer="91"/>
 <label x="218.44" y="33.02" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -19326,10 +19326,10 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <wire x1="223.52" y1="101.6" x2="226.06" y2="101.6" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="101.6" x2="226.06" y2="99.06" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="99.06" x2="223.52" y2="99.06" width="0.1524" layer="91" style="longdash"/>
-<pinref part="J5" gate="G$1" pin="2"/>
+<pinref part="ENG1" gate="G$1" pin="2"/>
 <wire x1="231.14" y1="101.6" x2="226.06" y2="101.6" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="B02@7"/>
-<pinref part="U$2" gate="G$1" pin="B02@8"/>
+<pinref part="TB6612FNG" gate="G$1" pin="B02@7"/>
+<pinref part="TB6612FNG" gate="G$1" pin="B02@8"/>
 <junction x="226.06" y="101.6"/>
 </segment>
 </net>
@@ -19339,30 +19339,30 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <wire x1="226.06" y1="106.68" x2="226.06" y2="104.14" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="104.14" x2="223.52" y2="104.14" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="104.14" x2="231.14" y2="104.14" width="0.1524" layer="91" style="longdash"/>
-<pinref part="J5" gate="G$1" pin="1"/>
-<pinref part="U$2" gate="G$1" pin="B01@11"/>
-<pinref part="U$2" gate="G$1" pin="B01@12"/>
+<pinref part="ENG1" gate="G$1" pin="1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="B01@11"/>
+<pinref part="TB6612FNG" gate="G$1" pin="B01@12"/>
 <junction x="226.06" y="104.14"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="U$2" gate="G$1" pin="A02@6"/>
+<pinref part="TB6612FNG" gate="G$1" pin="A02@6"/>
 <wire x1="223.52" y1="111.76" x2="226.06" y2="111.76" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="111.76" x2="226.06" y2="114.3" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="A02@5"/>
+<pinref part="TB6612FNG" gate="G$1" pin="A02@5"/>
 <wire x1="226.06" y1="114.3" x2="223.52" y2="114.3" width="0.1524" layer="91" style="longdash"/>
-<pinref part="J6" gate="G$1" pin="2"/>
+<pinref part="ENG2" gate="G$1" pin="2"/>
 <wire x1="226.06" y1="114.3" x2="231.14" y2="114.3" width="0.1524" layer="91" style="longdash"/>
 <junction x="226.06" y="114.3"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="J6" gate="G$1" pin="1"/>
-<pinref part="U$2" gate="G$1" pin="A01@2"/>
+<pinref part="ENG2" gate="G$1" pin="1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="A01@2"/>
 <wire x1="231.14" y1="116.84" x2="226.06" y2="116.84" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="A01@1"/>
+<pinref part="TB6612FNG" gate="G$1" pin="A01@1"/>
 <wire x1="226.06" y1="116.84" x2="223.52" y2="116.84" width="0.1524" layer="91" style="longdash"/>
 <wire x1="223.52" y1="119.38" x2="226.06" y2="119.38" width="0.1524" layer="91" style="longdash"/>
 <wire x1="226.06" y1="119.38" x2="226.06" y2="116.84" width="0.1524" layer="91" style="longdash"/>
@@ -19381,10 +19381,10 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <pinref part="+3V9" gate="G$1" pin="+3V3"/>
 <junction x="144.78" y="129.54"/>
 <junction x="154.94" y="129.54"/>
-<pinref part="U$2" gate="G$1" pin="STBY"/>
+<pinref part="TB6612FNG" gate="G$1" pin="STBY"/>
 <wire x1="187.96" y1="127" x2="185.42" y2="127" width="0.1524" layer="91" style="longdash"/>
 <wire x1="185.42" y1="127" x2="185.42" y2="129.54" width="0.1524" layer="91" style="longdash"/>
-<pinref part="U$2" gate="G$1" pin="VCC"/>
+<pinref part="TB6612FNG" gate="G$1" pin="VCC"/>
 <wire x1="185.42" y1="129.54" x2="187.96" y2="129.54" width="0.1524" layer="91" style="longdash"/>
 <wire x1="185.42" y1="129.54" x2="157.48" y2="129.54" width="0.1524" layer="91"/>
 <junction x="185.42" y="129.54"/>
