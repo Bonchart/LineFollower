@@ -18973,9 +18973,9 @@ Copyright: Würth Elektronik</description>
 <pinref part="U$1" gate="G$1" pin="PA12"/>
 </segment>
 <segment>
-<wire x1="187.96" y1="121.92" x2="185.42" y2="121.92" width="0.1524" layer="91" style="longdash"/>
-<label x="185.42" y="121.92" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="TB6612FNG" gate="G$1" pin="AIN2"/>
+<wire x1="187.96" y1="119.38" x2="185.42" y2="119.38" width="0.1524" layer="91" style="longdash"/>
+<label x="185.42" y="119.38" size="1.27" layer="95" rot="MR0" xref="yes"/>
+<pinref part="TB6612FNG" gate="G$1" pin="AIN1"/>
 </segment>
 </net>
 <net name="KIERUNEK_2_SILNIK_A" class="0">
@@ -18985,9 +18985,9 @@ Copyright: Würth Elektronik</description>
 <pinref part="U$1" gate="G$1" pin="PB4"/>
 </segment>
 <segment>
-<wire x1="187.96" y1="119.38" x2="185.42" y2="119.38" width="0.1524" layer="91" style="longdash"/>
-<label x="185.42" y="119.38" size="1.27" layer="95" rot="MR0" xref="yes"/>
-<pinref part="TB6612FNG" gate="G$1" pin="AIN1"/>
+<wire x1="187.96" y1="121.92" x2="185.42" y2="121.92" width="0.1524" layer="91" style="longdash"/>
+<label x="185.42" y="121.92" size="1.27" layer="95" rot="MR0" xref="yes"/>
+<pinref part="TB6612FNG" gate="G$1" pin="AIN2"/>
 </segment>
 </net>
 <net name="VAKU" class="0">

@@ -16616,10 +16616,10 @@ Copyright: Würth Elektronik</description>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="C6" library="rcl" deviceset="C-EU" device="C0805" value="10n"/>
-<part name="C5" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="4.7u"/>
+<part name="C5" library="rcl" deviceset="CPOL-EU" device="SMCA" value="4.7u"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
-<part name="C7" library="rcl" deviceset="CPOL-EU" device="UD-4X5,8" value="1u"/>
+<part name="C7" library="rcl" deviceset="CPOL-EU" device="SMCA" value="1u"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
 <part name="C8" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
@@ -16715,7 +16715,7 @@ Copyright: Würth Elektronik</description>
 <instance part="C6" gate="G$1" x="111.76" y="111.76"/>
 <instance part="C5" gate="G$1" x="93.98" y="111.76"/>
 <instance part="GND2" gate="1" x="93.98" y="99.06"/>
-<instance part="+3V2" gate="G$1" x="93.98" y="124.46"/>
+<instance part="+3V2" gate="G$1" x="93.98" y="127"/>
 <instance part="C7" gate="G$1" x="121.92" y="111.76"/>
 <instance part="GND3" gate="1" x="121.92" y="99.06"/>
 <instance part="+3V3" gate="G$1" x="121.92" y="139.7"/>
@@ -16928,7 +16928,7 @@ Copyright: Würth Elektronik</description>
 </segment>
 <segment>
 <pinref part="+3V2" gate="G$1" pin="+3V3"/>
-<wire x1="93.98" y1="121.92" x2="93.98" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="93.98" y1="124.46" x2="93.98" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="251.46" y1="73.66" x2="261.62" y2="73.66" width="0.1524" layer="91"/>
